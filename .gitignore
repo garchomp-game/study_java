@@ -1,0 +1,35 @@
+# Gradle関連
+.gradle/
+build/
+
+# ビルド出力
+bin/
+out/
+build/
+
+# Eclipse関連
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA関連
+.idea/
+*.iml
+*.iws
+
+# VS Code関連
+.vscode/
+
+# パッケージングされたアプリケーション（JAR, WAR等）
+*.jar
+*.war
+*.ear
+
+# OS関連
+.DS_Store
+Thumbs.db
+
+# 一時ファイル
+*.log
+*.tmp
+*.temp
